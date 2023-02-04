@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     height: 100%;
-    -webkit-tap-highlight-color: none;  
+    -webkit-tap-highlight-color: none;
 }
 
 body {
@@ -116,12 +116,13 @@ body {
     padding: 1rem 1rem;
     word-wrap: break-word;
     word-break: break-all;
-    margin: 5px;
+    margin: 2px;
     border-radius: 10px;
     display: flex;
     justify-content: left;
     align-items: center;
     cursor: pointer;
+    border: 3px solid transparent;
 }
 
 .border {
